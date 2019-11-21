@@ -1,0 +1,14 @@
+{
+  "customers": [
+    {
+      "comname": "fds",
+      "phone": "05466596799",
+      "taxnumber": "123434",
+      "adress": "8709 sokak no:10/6 çiğli",
+      "name": "çağdaş değirmencioğlu",
+      "job": "teknisyen",
+      "age": "27",
+      "id": 1
+    }
+  ]
+}
